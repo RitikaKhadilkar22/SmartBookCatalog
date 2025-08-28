@@ -1,4 +1,4 @@
-# PDF Metadata Extractor
+# Smart Book Catalog
 
 A Python script that automatically extracts metadata from PDF files using AI-powered text analysis and OCR capabilities. Designed specifically for processing Sanskrit, Hindi, and English books/documents.
 
