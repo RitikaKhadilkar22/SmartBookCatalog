@@ -1,0 +1,12 @@
+# Core dependencies for PDF processing and data handling
+pdfplumber==0.10.0
+pandas==2.1.4
+requests==2.31.0
+pathlib
+openpyxl==3.1.2
+
+# OCR dependencies (optional but recommended)
+pytesseract==0.3.10
+pdf2image==1.17.0
+Pillow==10.1.0
+
